@@ -1,0 +1,67 @@
+C:\Esoft\Assignment Files\Programming\Training Fee Calculation System for KickBlast Judo\KickBlast Judo Form\bin\Debug\net8.0-windows\KickBlast Judo Form.exe
+C:\Esoft\Assignment Files\Programming\Training Fee Calculation System for KickBlast Judo\KickBlast Judo Form\bin\Debug\net8.0-windows\KickBlast Judo Form.deps.json
+C:\Esoft\Assignment Files\Programming\Training Fee Calculation System for KickBlast Judo\KickBlast Judo Form\bin\Debug\net8.0-windows\KickBlast Judo Form.runtimeconfig.json
+C:\Esoft\Assignment Files\Programming\Training Fee Calculation System for KickBlast Judo\KickBlast Judo Form\bin\Debug\net8.0-windows\KickBlast Judo Form.dll
+C:\Esoft\Assignment Files\Programming\Training Fee Calculation System for KickBlast Judo\KickBlast Judo Form\bin\Debug\net8.0-windows\KickBlast Judo Form.pdb
+C:\Esoft\Assignment Files\Programming\Training Fee Calculation System for KickBlast Judo\KickBlast Judo Form\obj\Debug\net8.0-windows\KickBlast_Judo_Form.Judo_form.resources
+C:\Esoft\Assignment Files\Programming\Training Fee Calculation System for KickBlast Judo\KickBlast Judo Form\obj\Debug\net8.0-windows\KickBlast Judo Form.csproj.GenerateResource.cache
+C:\Esoft\Assignment Files\Programming\Training Fee Calculation System for KickBlast Judo\KickBlast Judo Form\obj\Debug\net8.0-windows\KickBlast Judo Form.GeneratedMSBuildEditorConfig.editorconfig
+C:\Esoft\Assignment Files\Programming\Training Fee Calculation System for KickBlast Judo\KickBlast Judo Form\obj\Debug\net8.0-windows\KickBlast Judo Form.AssemblyInfoInputs.cache
+C:\Esoft\Assignment Files\Programming\Training Fee Calculation System for KickBlast Judo\KickBlast Judo Form\obj\Debug\net8.0-windows\KickBlast Judo Form.AssemblyInfo.cs
+C:\Esoft\Assignment Files\Programming\Training Fee Calculation System for KickBlast Judo\KickBlast Judo Form\obj\Debug\net8.0-windows\KickBlast Judo Form.csproj.CoreCompileInputs.cache
+C:\Esoft\Assignment Files\Programming\Training Fee Calculation System for KickBlast Judo\KickBlast Judo Form\obj\Debug\net8.0-windows\KickBlast Judo Form.dll
+C:\Esoft\Assignment Files\Programming\Training Fee Calculation System for KickBlast Judo\KickBlast Judo Form\obj\Debug\net8.0-windows\refint\KickBlast Judo Form.dll
+C:\Esoft\Assignment Files\Programming\Training Fee Calculation System for KickBlast Judo\KickBlast Judo Form\obj\Debug\net8.0-windows\KickBlast Judo Form.pdb
+C:\Esoft\Assignment Files\Programming\Training Fee Calculation System for KickBlast Judo\KickBlast Judo Form\obj\Debug\net8.0-windows\KickBlast Judo Form.genruntimeconfig.cache
+C:\Esoft\Assignment Files\Programming\Training Fee Calculation System for KickBlast Judo\KickBlast Judo Form\obj\Debug\net8.0-windows\ref\KickBlast Judo Form.dll
+C:\Esoft\Assignment Files\Programming\Training Fee Calculation System for KickBlast Judo\KickBlast Judo Form\obj\Debug\net8.0-windows\KickBlast_Judo_Form.Properties.Resources.resources
+C:\Esoft\Assignment Files\Programming\Training Fee Calculation System for KickBlast Judo\KickBlast Judo Form\obj\Debug\net8.0-windows\KickBlast_Judo_Form.ResultForm.resources
+C:\Esoft\Assignment Files\Programming\Training Fee Calculation System for KickBlast Judo\KickBlast Judo Form\bin\Debug\net8.0-windows\KickBlast Judo Form.dll.config
+C:\Esoft\Assignment Files\Programming\Training Fee Calculation System for KickBlast Judo\KickBlast Judo Form\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Esoft\Assignment Files\Programming\Training Fee Calculation System for KickBlast Judo\KickBlast Judo Form\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Esoft\Assignment Files\Programming\Training Fee Calculation System for KickBlast Judo\KickBlast Judo Form\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Esoft\Assignment Files\Programming\Training Fee Calculation System for KickBlast Judo\KickBlast Judo Form\bin\Debug\net8.0-windows\Microsoft.Bcl.Cryptography.dll
+C:\Esoft\Assignment Files\Programming\Training Fee Calculation System for KickBlast Judo\KickBlast Judo Form\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Esoft\Assignment Files\Programming\Training Fee Calculation System for KickBlast Judo\KickBlast Judo Form\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Esoft\Assignment Files\Programming\Training Fee Calculation System for KickBlast Judo\KickBlast Judo Form\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Esoft\Assignment Files\Programming\Training Fee Calculation System for KickBlast Judo\KickBlast Judo Form\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Esoft\Assignment Files\Programming\Training Fee Calculation System for KickBlast Judo\KickBlast Judo Form\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Esoft\Assignment Files\Programming\Training Fee Calculation System for KickBlast Judo\KickBlast Judo Form\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Esoft\Assignment Files\Programming\Training Fee Calculation System for KickBlast Judo\KickBlast Judo Form\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Esoft\Assignment Files\Programming\Training Fee Calculation System for KickBlast Judo\KickBlast Judo Form\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Esoft\Assignment Files\Programming\Training Fee Calculation System for KickBlast Judo\KickBlast Judo Form\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Esoft\Assignment Files\Programming\Training Fee Calculation System for KickBlast Judo\KickBlast Judo Form\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Esoft\Assignment Files\Programming\Training Fee Calculation System for KickBlast Judo\KickBlast Judo Form\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Esoft\Assignment Files\Programming\Training Fee Calculation System for KickBlast Judo\KickBlast Judo Form\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Esoft\Assignment Files\Programming\Training Fee Calculation System for KickBlast Judo\KickBlast Judo Form\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Esoft\Assignment Files\Programming\Training Fee Calculation System for KickBlast Judo\KickBlast Judo Form\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Esoft\Assignment Files\Programming\Training Fee Calculation System for KickBlast Judo\KickBlast Judo Form\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Esoft\Assignment Files\Programming\Training Fee Calculation System for KickBlast Judo\KickBlast Judo Form\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Esoft\Assignment Files\Programming\Training Fee Calculation System for KickBlast Judo\KickBlast Judo Form\bin\Debug\net8.0-windows\System.ClientModel.dll
+C:\Esoft\Assignment Files\Programming\Training Fee Calculation System for KickBlast Judo\KickBlast Judo Form\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Esoft\Assignment Files\Programming\Training Fee Calculation System for KickBlast Judo\KickBlast Judo Form\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+C:\Esoft\Assignment Files\Programming\Training Fee Calculation System for KickBlast Judo\KickBlast Judo Form\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Esoft\Assignment Files\Programming\Training Fee Calculation System for KickBlast Judo\KickBlast Judo Form\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Esoft\Assignment Files\Programming\Training Fee Calculation System for KickBlast Judo\KickBlast Judo Form\bin\Debug\net8.0-windows\System.Security.Cryptography.Pkcs.dll
+C:\Esoft\Assignment Files\Programming\Training Fee Calculation System for KickBlast Judo\KickBlast Judo Form\bin\Debug\net8.0-windows\cs\Microsoft.Data.SqlClient.resources.dll
+C:\Esoft\Assignment Files\Programming\Training Fee Calculation System for KickBlast Judo\KickBlast Judo Form\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+C:\Esoft\Assignment Files\Programming\Training Fee Calculation System for KickBlast Judo\KickBlast Judo Form\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+C:\Esoft\Assignment Files\Programming\Training Fee Calculation System for KickBlast Judo\KickBlast Judo Form\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Esoft\Assignment Files\Programming\Training Fee Calculation System for KickBlast Judo\KickBlast Judo Form\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+C:\Esoft\Assignment Files\Programming\Training Fee Calculation System for KickBlast Judo\KickBlast Judo Form\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Esoft\Assignment Files\Programming\Training Fee Calculation System for KickBlast Judo\KickBlast Judo Form\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Esoft\Assignment Files\Programming\Training Fee Calculation System for KickBlast Judo\KickBlast Judo Form\bin\Debug\net8.0-windows\pl\Microsoft.Data.SqlClient.resources.dll
+C:\Esoft\Assignment Files\Programming\Training Fee Calculation System for KickBlast Judo\KickBlast Judo Form\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Esoft\Assignment Files\Programming\Training Fee Calculation System for KickBlast Judo\KickBlast Judo Form\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Esoft\Assignment Files\Programming\Training Fee Calculation System for KickBlast Judo\KickBlast Judo Form\bin\Debug\net8.0-windows\tr\Microsoft.Data.SqlClient.resources.dll
+C:\Esoft\Assignment Files\Programming\Training Fee Calculation System for KickBlast Judo\KickBlast Judo Form\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Esoft\Assignment Files\Programming\Training Fee Calculation System for KickBlast Judo\KickBlast Judo Form\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Esoft\Assignment Files\Programming\Training Fee Calculation System for KickBlast Judo\KickBlast Judo Form\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Esoft\Assignment Files\Programming\Training Fee Calculation System for KickBlast Judo\KickBlast Judo Form\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Esoft\Assignment Files\Programming\Training Fee Calculation System for KickBlast Judo\KickBlast Judo Form\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Esoft\Assignment Files\Programming\Training Fee Calculation System for KickBlast Judo\KickBlast Judo Form\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Esoft\Assignment Files\Programming\Training Fee Calculation System for KickBlast Judo\KickBlast Judo Form\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Esoft\Assignment Files\Programming\Training Fee Calculation System for KickBlast Judo\KickBlast Judo Form\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Esoft\Assignment Files\Programming\Training Fee Calculation System for KickBlast Judo\KickBlast Judo Form\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Esoft\Assignment Files\Programming\Training Fee Calculation System for KickBlast Judo\KickBlast Judo Form\obj\Debug\net8.0-windows\KickBlast Judo Form.csproj.AssemblyReference.cache
+C:\Esoft\Assignment Files\Programming\Training Fee Calculation System for KickBlast Judo\KickBlast Judo Form\obj\Debug\net8.0-windows\KickBlas.5F2C74D5.Up2Date
